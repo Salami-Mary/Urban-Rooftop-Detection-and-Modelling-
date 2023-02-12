@@ -8,3 +8,5 @@
  
 ## Result
 
+<img src="rooftop.png" alt="Alt text" title="Optional title">
+
